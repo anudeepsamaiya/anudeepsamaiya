@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://anudeepsamaiya.com/licence/</loc>
+    <lastmod>2018-05-19T21:22:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anudeepsamaiya.com/home/</loc>
+    <lastmod>2018-05-19T21:21:20+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anudeepsamaiya.com/about/about/</loc>
+    <lastmod>2018-05-19T20:53:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anudeepsamaiya.com/projects/projects/</loc>
+    <lastmod>2018-05-19T20:49:50+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anudeepsamaiya.com/reading/reading/</loc>
+    <lastmod>2018-05-19T20:49:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anudeepsamaiya.com/blog/the-backpack/</loc>
+    <lastmod>2018-05-19T19:46:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anudeepsamaiya.com/about/</loc>
+    <lastmod>2018-05-19T20:53:37+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anudeepsamaiya.com/</loc>
+    <lastmod>2018-05-19T21:22:39+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anudeepsamaiya.com/blog/</loc>
+    <lastmod>2018-05-19T19:46:17+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anudeepsamaiya.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anudeepsamaiya.com/projects/</loc>
+    <lastmod>2018-05-19T20:49:50+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anudeepsamaiya.com/reading/</loc>
+    <lastmod>2018-05-19T20:49:36+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anudeepsamaiya.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
