@@ -1,2 +1,2 @@
-# anudeepsamaiya.github.io
-My personal website anudeepsamaiya.com
+# [anudeepsamaiya.com](https://anudeepsamaiya.com)
+Personal Website [anudeepsamaiya.com](https://anudeepsamaiya.com)
