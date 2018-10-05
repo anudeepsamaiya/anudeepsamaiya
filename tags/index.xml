@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Anudeep Samaiya</title>
-    <link>http://anudeepsamaiya.com/tags/</link>
-    <description>Recent content in Tags on Anudeep Samaiya</description>
+    <title>Tags on Asymptote - Personal website of Anudeep Samaiya</title>
+    <link>https://anudeepsamaiya.github.io/tags/</link>
+    <description>Recent content in Tags on Asymptote - Personal website of Anudeep Samaiya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://anudeepsamaiya.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anudeepsamaiya.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
