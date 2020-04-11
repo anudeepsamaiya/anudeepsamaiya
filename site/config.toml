@@ -39,7 +39,7 @@ enableRobotsTXT = true
 [params]
     enableEmoji = true
     math = true
-    description = "An attempt on story telling. Technical and Non-technical."
+    description = "An attempt on story telling. Technical and non-technical."
     email    = "anudeepsamaiya@gmail.com"
     github   = "//github.com/anudeepsamaiya"
     linkedin = "//linkedin.com/in/anudeepsamaiya"
