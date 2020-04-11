@@ -16,4 +16,4 @@ fi
 
 git add .
 git commit -m "Publishing to anudeepsamaiya.github.io.git:master"
-git push --force origin HEAD:master
+git push origin HEAD:master
