@@ -1,0 +1,1 @@
+I'm a programmer/backend developer. I help great startups build scalable backend systems. I read books on fiction, economics, math, physics and about space. I also watch movies and listen to music, Led Zeppelin is my favorite band. 
