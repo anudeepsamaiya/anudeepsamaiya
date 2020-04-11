@@ -15,5 +15,5 @@ then
 fi
 
 git add .
-git commit -m "Rebuild site"
+git commit -m "Publishing to anudeepsamaiya.github.io.git:master"
 git push --force origin HEAD:master
