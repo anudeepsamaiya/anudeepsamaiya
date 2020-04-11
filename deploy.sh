@@ -14,7 +14,7 @@ then
     git config user.name "anudeepsamaiya-blog-bot"
 fi
 
-git pull origin master
 git add .
 git commit -m "Publishing to anudeepsamaiya.github.io.git:master"
+git pull --rebase origin master
 git push origin HEAD:master
