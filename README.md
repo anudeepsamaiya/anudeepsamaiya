@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Anudeep Samaiya
+### Hi there 👋, my name is Anudeep Samaiya :bowtie:
 #### Backend Developer | Data Engineering | Devops | ML
-I am a backend engineer based in Bengaluru, India 🇮🇳. I enjoy solving problems and have a big appetite for continually learning and growing. In my spare time I like to read 📝, cook 🍲, learn guitar 🎸, go cycling 🚵, hiking 🥾 and workout 🤸🏼 
+I am a backend developer based in Bengaluru, India 🇮🇳. I enjoy solving problems and have a big appetite for continually learning and growing. In my spare time I like to read 📝, cook 🍲, learn guitar 🎸, go cycling 🚵, hiking 🥾 and workout 🤸🏼 
 
 **Skills:** Python / DJANGO / GOLANG
 
