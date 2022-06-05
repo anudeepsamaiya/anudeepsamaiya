@@ -1,14 +1,16 @@
 ### Hi there 👋, my name is Anudeep Samaiya
 #### Backend Developer | Data Engineering | Devops | ML
-I am a passionate backend developer.
+I am a backend engineer based in Bengaluru, India 🇮🇳. I enjoy solving problems and have a big appetite for continually learning and growing. In my spare time I like to read 📝, cook 🍲, learn guitar 🎸, go cycling 🚵, hiking 🥾 and workout 🤸🏼 
 
 **Skills:** Python / DJANGO / GOLANG
 
-- 🌱 I’m currently learning Rust 
+- 🌱 I’m currently learning Rust 🦀.
 - 👯 I’m looking to collaborate on Open Source projects. 
-- 💬 Ask me about Python, Celery, Locust, Postgres 
-- ⚡ Fun fact: I've recently started running 🏃🏼(my best: 5kms under 33minutes) and solving Rubiks Cube (my best: under 3 minutes) 
-
+- 💬 Ask me about Python, Celery, Locust, Postgres or anything related to the python stack.
+- 🧐 I have keen interest in math, economics, programming, and science.
+- 🌱 I’m addicted to learning and growing every day.
+- 🌏 I share a little bit of my knowledge to the world through my [blogs](https://anudeepsamaiya.github.io/).
+- ⚡ Fun fact: I've recently started running 🏃🏼(my best: 5kms under 33minutes) and solving Rubiks Cube (my best: under 3 minutes).
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anudeepsamaiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anudeepsamaiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/anudeepsamaiya/)  
 
@@ -35,6 +37,8 @@ I am a passionate backend developer.
 #### **IDEs**
 
 [![TF](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/docs) [![TF](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true) [![TF](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)](https://docs.spyder-ide.org/current/index.html)
+
+![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anudeepsamaiya)](https://github.com/anuraghazra/github-readme-stats) -->
 
