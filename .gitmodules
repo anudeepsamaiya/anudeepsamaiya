@@ -1,0 +1,6 @@
+[submodule "site/themes/noteworthy"]
+	path = site/themes/noteworthy
+	url = https://github.com/kimcc/hugo-theme-noteworthy.git
+[submodule "site/public"]
+	path = site/public
+	url = https://github.com/anudeepsamaiya/anudeepsamaiya.github.io.git

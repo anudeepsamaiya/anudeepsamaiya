@@ -1,0 +1,49 @@
+baseURL = "https://anudeepsamaiya.github.io/"
+languageCode = "en-us"
+title = "Anudeep Samaiya"
+theme = "noteworthy"
+publishDir = "public"
+author = "Anudeep Samaiya"
+license = "MIT"
+licenselink = "https://github.com/anudeepsamaiya/anudeepsamaiya.com/blob/master/LICENSE"
+enableRobotsTXT = true
+
+[taxonomies]
+  tag = "tags"
+
+# Menu links along the sidebar navigation.
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "reading"
+    name = "Reading"
+    url = "/reading/"
+    weight = 1.1
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 3
+
+[params]
+    enableEmoji = true
+    math = true
+    description = "An attempt on story telling. Technical and non-technical."
+    email    = "anudeepsamaiya@gmail.com"
+    github   = "//github.com/anudeepsamaiya"
+    linkedin = "//linkedin.com/in/anudeepsamaiya"
+    twitter  = "//twitter.com/anudeepsamaiya"
+    instagram = "//instagram.com/anudeepsamaiya"
+    px500 = "//500px.com/anudeepsamaiya"
+
