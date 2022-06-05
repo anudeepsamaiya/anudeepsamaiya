@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Anudeep Samaiya
-#### Backend Developer | Devops
+#### Backend Developer | Data Engineering | Devops
 I am a passionate backend developer.
 
 Skills: Python / DJANGO / GOLANG
