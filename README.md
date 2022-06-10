@@ -4,15 +4,14 @@ I am a backend developer based in Bengaluru, India 🇮🇳. I enjoy solving pro
 
 **Skills:** Python / DJANGO / GOLANG
 
-- 🌱 I’m currently learning Rust 🦀.
 - 👯 I’m looking to collaborate on Open Source projects. 
 - 💬 Ask me about Python, Celery, Locust, Postgres or anything related to the python stack.
 - 🧐 I have keen interest in math, economics, programming, and science.
-- 🌱 I’m addicted to learning and growing every day.
+- 🌱 I’m addicted to learning and growing every day. I’m currently learning Rust 🦀.
 - 🌏 I share a little bit of my knowledge to the world through my [blogs](https://anudeepsamaiya.github.io/).
 - ⚡ Fun fact: I've recently started running 🏃🏼(my best: 5kms under 33minutes) and solving Rubiks Cube (my best: under 3 minutes).
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anudeepsamaiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anudeepsamaiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/anudeepsamaiya/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anudeepsamaiya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anudeepsamaiya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stack overflow' height='40'>](https://stackoverflow.com/users/2079692/anudeep-samaiya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/anudeepsamaiya/)  
 
 #### 🛠️ **Languages**
 
