@@ -1,5 +1,9 @@
-### Hi there 👋, my name is Anudeep Samaiya :bowtie:
-#### Backend Developer | Data Engineering | Devops | ML
+<!-- ## Anudeep Samaiya 👋 | Backend Developer | Data Engineering | Devops | ML | Python | Django | GoLang -->
+
+## Anudeep Samaiya :bowtie:
+### Backend Developer | Data Engineering | Devops | ML
+
+#### Hi there 👋,
 I am a backend developer based in Bengaluru, India 🇮🇳. I enjoy solving problems and have a big appetite for continually learning and growing. In my spare time I like to read 📝, cook 🍲, learn guitar 🎸, go cycling 🚵, hiking 🥾 and workout 🤸🏼 
 
 **Skills:** Python / Django / GoLang
