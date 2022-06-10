@@ -2,7 +2,7 @@
 #### Backend Developer | Data Engineering | Devops | ML
 I am a backend developer based in Bengaluru, India 🇮🇳. I enjoy solving problems and have a big appetite for continually learning and growing. In my spare time I like to read 📝, cook 🍲, learn guitar 🎸, go cycling 🚵, hiking 🥾 and workout 🤸🏼 
 
-**Skills:** Python / DJANGO / GOLANG
+**Skills:** Python / Django / GoLang
 
 - 👯 I’m looking to collaborate on Open Source projects. 
 - 💬 Ask me about Python, Celery, Locust, Postgres or anything related to the python stack.
