@@ -1,6 +1,6 @@
 <!-- ## Anudeep Samaiya 👋 | Backend Developer | Data Engineering | Devops | ML | Python | Django | GoLang -->
 
-## Anudeep Samaiya :bowtie:
+### Anudeep Samaiya :bowtie:
 ### Backend Developer | Data Engineering | Devops | ML
 
 #### Hi there 👋,
