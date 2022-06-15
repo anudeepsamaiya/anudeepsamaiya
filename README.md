@@ -1,6 +1,6 @@
-<!-- ## Anudeep Samaiya 👋 | Backend Developer | Data Engineering | Devops | ML | Python | Django | GoLang -->
+<!-- ## Anudeep Samaiya 👋 | Backend Developer | Data Engineering | Devops | Python | Django | GoLang -->
 ## Anudeep Samaiya [<img class="emoji" title=":bowtie:" alt=":bowtie:" src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="20" height="20" align="absmiddle">](https://github.com/anudeepsamaiya)
-### Backend Developer | Data Engineering | Devops | ML
+### Backend Developer | Data Engineering | Devops
 
 #### Hey there 👋,
 I am a backend developer based in Bengaluru, India 🇮🇳. I enjoy solving problems and have a big appetite for continually learning and growing. In my spare time I like to read 📝, cook 🍲, learn guitar 🎸, go cycling 🚵, hiking 🥾 and workout 🤸🏼 
@@ -32,33 +32,36 @@ I am a backend developer based in Bengaluru, India 🇮🇳. I enjoy solving pro
 
 #### **Frameworks & Tools**
 
-[![TF](https://img.shields.io/badge/Tensorflow-EE4C2C?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/3.2/) [![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/) [![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
+
+[![celery](https://img.shields.io/badge/celery-348613?style=for-the-badge&logo=celery&logoColor=white)](https://docs.celeryq.dev/en/latest/index.html)
+[![airflow](https://img.shields.io/badge/airflow-4285F4?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
+[![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge&logo=beautifulsoup4&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+<!-- [![TF](https://img.shields.io/badge/Tensorflow-EE4C2C?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 [![SkL](https://img.shields.io/badge/SciKit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![pyspark](https://img.shields.io/badge/PySpark-663EE8?style=for-the-badge&logo=pyspark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
-[![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)
-[![scipy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://www.scipy.org/docs.html)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge&logo=beautifulsoup4&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-[![dask](https://img.shields.io/badge/Dask-EE4C2C?style=for-the-badge&logo=dask&logoColor=white)](https://docs.dask.org/en/latest/)
-[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/) -->
+<!-- [![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)
+[![scipy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://www.scipy.org/docs.html) -->
+<!-- [![dask](https://img.shields.io/badge/Dask-EE4C2C?style=for-the-badge&logo=dask&logoColor=white)](https://docs.dask.org/en/latest/) -->
 [![git-scm](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![TF](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white)](https://dvc.org/doc)
-[![TF](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white)](https://numba.pydata.org/numba-doc/latest/index.html)
+[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+<!-- [![dvc](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white)](https://dvc.org/doc)
+[![numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white)](https://numba.pydata.org/numba-doc/latest/index.html) -->
 
 #### **Database**
 
-[![mysql](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/) [![postgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/) [![elasticsearch](https://img.shields.io/badge/elasticsearch-47A248?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html)
+[![mysql](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/) [![postgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/) [![elasticsearch](https://img.shields.io/badge/elasticsearch-47A248?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html) [![redis](https://img.shields.io/badge/redis-A41E11?style=for-the-badge&logo=redis&logoColor=white)](https://docs.redis.com/latest/index.html)
 
-#### **Backend**
-
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/3.2/) [![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/) [![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 #### **Cloud**
 
-[![Google Cloug](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/) [![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://devcenter.heroku.com/categories/reference)
+[![AWS](https://img.shields.io/badge/amazonaws-e15500?style=for-the-badge&logo=amazonaws&logoColor=white)](aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/) [![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://devcenter.heroku.com/categories/reference)
 
 #### **IDEs**
 
