@@ -12,7 +12,7 @@ I am a backend developer based in Bengaluru, India 🇮🇳. I enjoy solving pro
 - 🧐 I have keen interest in math, economics, programming, and science.
 - 🌱 I’m addicted to learning and growing every day. I’m currently learning Rust 🦀.
 - 🌏 I share a little bit of my knowledge to the world through my [blogs](https://anudeepsamaiya.github.io/).
-- ⚡ Fun fact: I've recently started running 🏃🏼(my best: 5kms under 33minutes) and solving Rubiks Cube (my best: under 3 minutes).
+- ⚡ Fun fact: I've recently started running 🏃🏼 (my best: 5kms under 33minutes) and solving Rubiks cube (my best: under 3 minutes).
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter.com/anudeepsamaiya' height='40'>](https://twitter.com/anudeepsamaiya)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github.com/anudeepsamaiya' height='40'>](https://github.com/anudeepsamaiya)
