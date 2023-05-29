@@ -69,5 +69,6 @@ I am a backend developer based in Bengaluru, India 🇮🇳. I enjoy solving pro
 [![Vim](https://img.shields.io/badge/vim-0078D4?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/) [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/docs) [![google colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true) [![spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)](https://docs.spyder-ide.org/current/index.html)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anudeepsamaiya&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anudeepsamaiya)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anudeepsamaiya&show_icons=true)  -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anudeepsamaiya)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anudeepsamaiya)](https://github.com/anuraghazra/github-readme-stats) -->
