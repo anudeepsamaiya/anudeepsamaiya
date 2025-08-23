@@ -8,7 +8,7 @@ I am a backend developer based in Bengaluru, India 🇮🇳. I enjoy solving pro
 **Skills:** Python / Django / GoLang
 
 - 👯 I’m looking to collaborate on Open Source projects. 
-- 💬 Ask me about Python, Celery, Locust, Postgres or anything related to the python stack.
+- 💬 Ask me about Python, Celery, Django, Postgres or anything related to the python stack.
 - 🧐 I have keen interest in math, economics, programming, and science.
 - 🌱 I’m addicted to learning and growing every day. I’m currently learning Rust 🦀.
 - 🌏 I share a little bit of my knowledge to the world through my [blogs](https://anudeepsamaiya.github.io/).
