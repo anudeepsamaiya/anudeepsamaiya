@@ -5,7 +5,7 @@ description: >- # This helps Google understand your page content
   Backend Developer, Data Engineering & DevOps expert based in Bengaluru, India. 
   Specializing in Python, Django, GoLang, and Rust. Passionate about solving 
   problems and open-source collaboration.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "anudeepsamaiya"
 url: "https://anudeepsamaiya.github.io" # the base hostname & protocol for your site
 
 # Social Links
