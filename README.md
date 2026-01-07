@@ -1,5 +1,5 @@
 <!-- ## Anudeep Samaiya 👋 | Backend Developer | Data Engineering | Devops | Python | Django | GoLang -->
-## Anudeep Samaiya [<img class="emoji" title=":bowtie:" alt=":bowtie:" src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="20" height="20" align="absmiddle">](https://github.com/anudeepsamaiya)
+## Anudeep Samaiya [<img class="emoji" title="anudeepsamaiya" alt="anudeepsamaiya" src="https://avatars.githubusercontent.com/u/3428221?v=4&size=20" width="20" height="20" align="absmiddle">](https://github.com/anudeepsamaiya)
 ### Backend Developer | Data Engineering | Devops
 
 #### Hey there 👋,
