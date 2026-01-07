@@ -5,7 +5,7 @@ description: >- # This helps Google understand your page content
   Backend Developer, Data Engineering & DevOps expert based in Bengaluru, India. 
   Specializing in Python, Django, GoLang, and Rust. Passionate about solving 
   problems and open-source collaboration.
-baseurl: "anudeepsamaiya"
+baseurl: "/anudeepsamaiya"
 url: "https://anudeepsamaiya.github.io" # the base hostname & protocol for your site
 
 # Social Links
@@ -28,7 +28,6 @@ plugins:
 twitter:
   username: anudeepsamaiya
   card: summary
-logo: /assets/img/profile.png # Update with your actual image path
 
 # Exclude from processing
 exclude:
