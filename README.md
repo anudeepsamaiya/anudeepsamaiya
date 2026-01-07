@@ -9,8 +9,8 @@ I am a backend developer based in Bengaluru, India 🇮🇳. I enjoy solving pro
 
 - 👯 I’m looking to collaborate on Open Source projects. 
 - 💬 Ask me about Python, Celery, Django, Postgres or anything related to the python stack.
-- 🧐 I have keen interest in math, economics, programming, and science.
 - 🌱 I’m addicted to learning and growing every day. I’m currently learning Rust 🦀.
+- 🧐 I have keen interest in math, economics, programming, and science.
 - 🌏 I share a little bit of my knowledge to the world through my <a href="https://anudeepsamaiya.github.io/blog" target="_blank" rel="noopener">blogs</a>.
 - ⚡ Fun fact: I've recently started running 🏃🏼 (my best: 5kms under 33minutes) and solving Rubiks cube (my best: under 3 minutes).
 
