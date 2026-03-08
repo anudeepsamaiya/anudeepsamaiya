@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About Me
+title: Anudeep Samaiya
 permalink: /
-nav_exclude: true
 ---
 
 # Hi, I'm Anudeep Samaiya.
