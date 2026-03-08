@@ -8,7 +8,7 @@ permalink: /
 
 I am a **Software Engineer** specializing in distributed systems, high-throughput backend architecture, and data infrastructure. Over the past decade, I've designed and scaled production services across the fintech and blockchain domains. 
 
-Currently, my focus sits at the intersection of backend architecture and AI—building the robust data pipelines and backend platforms required to power modern AI products reliably.
+Currently, my focus sits at the intersection of backend architecture and AI, building the robust data pipelines and backend platforms required to power modern AI products reliably.
 
 ### Core Technologies
 
