@@ -1,5 +1,5 @@
 <h1 align="left">Anudeep Samaiya</h1>
-<h3 align="left">Staff Software Engineer | Backend & Distributed Systems</h3>
+<h3 align="left">Software Engineer | Backend & Distributed Systems</h3>
 
 I am a backend engineer with 10+ years of experience building high-throughput, event-driven infrastructure for fintech and blockchain platforms. I specialize in bridging complex business requirements with scalable technical execution, focusing heavily on system design, observability, and infrastructure modernization.
 
