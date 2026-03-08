@@ -1,10 +1,10 @@
 # Site Settings
 title: Anudeep Samaiya
 email: ""
-description: >- # This helps Google understand your page content
-  Staff Software Engineer specializing in backend infrastructure, distributed systems, and scalable data platforms.
-  Building in Python, Go, Kubernetes, Kafka. Passionate about solving 
-  problems and open-source collaboration.
+description: >-
+  Staff Software Engineer specializing in backend infrastructure, distributed systems, 
+  and scalable data platforms. Architecting high-throughput, event-driven systems 
+  using Python, Go, Kubernetes, and Kafka.
 baseurl: "/anudeepsamaiya"
 url: "https://anudeepsamaiya.github.io" # the base hostname & protocol for your site
 
