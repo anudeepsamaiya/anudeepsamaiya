@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+permalink: /
 ---
 
 # Hi, I'm Anudeep Samaiya.
