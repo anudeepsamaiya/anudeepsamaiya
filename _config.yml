@@ -18,7 +18,8 @@ linkedin_username: anudeepsamaiya
 google_site_verification: "twVFs_dUxCyldlt-Sif72GezMsXbI0wKJEVTBJ1A22g"
 
 # Build Settings
-theme: minima # Or your specific theme name
+theme: minima
+header_pages: [] # Exclude all pages from the header to remove the redundant "About Me" link
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
