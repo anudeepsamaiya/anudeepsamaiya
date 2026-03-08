@@ -65,4 +65,5 @@ When I step away from the keyboard, I prioritize endurance and continuous learni
 [LinkedIn](https://www.linkedin.com/in/anudeepsamaiya/) •
 [Blog](https://anudeepsamaiya.github.io/) •
 [LeetCode](https://leetcode.com/anudeepsamaiya) •
-[About](https://anudeepsamaiya.github.io/about)
+[About](https://anudeepsamaiya.github.io/about) •
+[Resume](https://docs.google.com/document/d/1ouYM4MhTTWZZ91OfkOz8mHzUa5JsjULgrzNiS3IXioo/export?format=pdf)
