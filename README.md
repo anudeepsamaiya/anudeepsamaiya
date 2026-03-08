@@ -1,9 +1,10 @@
 ---
 layout: default
+title: About Me
 permalink: /
 ---
 
-# Hi, I'm Anudeep.
+# Hi, I'm Anudeep Samaiya.
 
 I am a **Staff Software Engineer** specializing in distributed systems, high-throughput backend architecture, and scalable data infrastructure. Over the past decade, I've designed and scaled production services across the fintech and blockchain domains. 
 
