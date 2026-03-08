@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /
+nav_exclude: true
 ---
 
 # Hi, I'm Anudeep Samaiya.
