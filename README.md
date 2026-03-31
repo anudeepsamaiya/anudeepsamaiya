@@ -6,7 +6,7 @@ permalink: /
 
 # Hi, I'm Anudeep Samaiya.
 
-I am a Staff Software Engineer specializing in distributed systems and backend infrastructure. With over a decade of experience in the fintech and blockchain sectors, I design high-throughput, event-driven platforms.
+I am a Software Engineer specializing in distributed systems and backend infrastructure. With over a decade of experience in the fintech and blockchain sectors, I design high-throughput, event-driven platforms.
 
 My core focus is scaling asynchronous processing, standardizing cloud deployments, and building fault-tolerant data pipelines using Python, Go, Kafka, and Kubernetes.
 
