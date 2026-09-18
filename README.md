@@ -56,7 +56,7 @@ My core focus is scaling asynchronous processing, standardizing cloud deployment
 
 ### Outside of Work
 
-When I step away from the keyboard, I prioritize endurance and continuous learning. I enjoy reading, cooking, cycling, hiking, learning guitar, and strength training. I’m always curious about exploring how complex systems, both in software and in life, can be made simpler and more reliable.
+When I step away from the keyboard, I enjoy reading, cooking, cycling, hiking, learning guitar, and strength training. I’m always curious about exploring how complex systems, both in software and in life, can be made simpler and more reliable.
 
 ---
 
